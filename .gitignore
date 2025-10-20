@@ -1,0 +1,69 @@
+# Unity auto-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+MemoryCaptures/
+ExportedObj/
+
+# Unity cache and database files
+*.pidb
+*.pidb.meta
+*.pdb
+*.pdb.meta
+*.mdb
+*.mdb.meta
+*.opendb
+*.VC.db
+*.ilpp.pid
+*.localhistory
+
+# Unity crash reports
+sysinfo.txt
+
+# Unity build artifacts
+*.apk
+*.unitypackage
+*.aab
+*.zip
+
+# Unity asset formats (optional to ignore if large)
+*.fbx
+*.blend
+*.psd
+*.tga
+*.wav
+*.mov
+
+# IDE-specific folders and files
+.vs/
+.gradle/
+.consulo/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.booproj
+*.svd
+
+# JetBrains Rider plugin
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Asset meta data (only ignore if asset itself is ignored)
+!Assets/**/*.meta
+
+# Optional: ignore asset store tools
+# Assets/AssetStoreTools*
+
+# Crashlytics
+crashlytics-build.properties
+
+Packages/*.tgz
